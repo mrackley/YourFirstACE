@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ace-home-button-client-side-solution",
+    "id": "221f44ec-f4eb-44a6-9566-8bf81ca1b007",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ace-home-button description"
+      },
+      "longDescription": {
+        "default": "ace-home-button description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ace-home-button Feature",
+        "description": "The feature that activates elements of the ace-home-button solution.",
+        "id": "e8f10ea0-569b-4fb5-a3ff-3acbc58013fa",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ace-home-button.sppkg"
+  }
+}
